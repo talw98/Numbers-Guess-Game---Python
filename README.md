@@ -1,1 +1,2 @@
-# Numbers-Guess-Game---Python
+# Numbers-Guess-Game-Python
+The provided code is a number guessing game implemented in Python. The code imports the random module and defines a function guess(y). This function takes an integer y as an input and generates a random number between 1 and y. It then asks the user to guess the number and provides feedback based on whether the guess is too low or too high. The function continues to prompt the user to guess until the correct number is guessed, at which point it prints a congratulatory message. This code can be used as an example of how to generate a random number in Python and implement a simple game using a while loop. 
